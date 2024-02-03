@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sundara Subramanian (@onetrueheisenberg)
 - 👀 I’m an AWS Certified Developer interested in MEAN stack development using AWS
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on building free resources
 - 📫 How to reach me sundarasubramanian.s@gmail.com
 

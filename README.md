@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sundara Subramanian (@onetrueheisenberg)
-- 👀 I’m an AWS Certified Developer interested in MEAN stack development using AWS
-- 🌱 I’m currently learning React and Node.js
+- 👀 I’m an AWS Certified Developer interested in MEAN stack development and a variety of other things
+- 🌱 I’m currently doing a Master's in Software Engineering with minors in AI and Information and Knowledge Engineering
 - 💞️ I’m looking to collaborate on building free resources
-- 📫 How to reach me sundarasubramanian.s@gmail.com
+- 📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com
 
 <!---
 onetrueheisenberg/onetrueheisenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

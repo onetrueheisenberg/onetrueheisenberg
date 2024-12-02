@@ -5,7 +5,7 @@
 - 📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NmejVwMG41dHRjazFzc3NmaDd3M3E2Y3hqcGpyOG1zYXgwajdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
 </div>
 <!---
 onetrueheisenberg/onetrueheisenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

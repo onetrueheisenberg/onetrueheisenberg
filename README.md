@@ -4,18 +4,20 @@
   <a href="https://www.linkedin.com/in/sundara-subramanian">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
   <img src="https://komarev.com/ghpvc/?username=onetrueheisenberg&style=flat-square&color=blue" alt=""/>
+</div>
+</div>
+<div>
   <div>- 👋 Hi, I’m Sundara Subramanian (@onetrueheisenberg)</div>
   <div>- 👀 I’m an AWS Certified Developer interested in MEAN stack development and a variety of other things</div>
   <div>- 🌱 I’m currently doing a Master's degree in Software Engineering with minors in AI & Information and Knowledge Engineering</div>
   <div>- 💞️ I’m looking to collaborate on building free resources</div>
   <div>- 📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com</div>
-  
 </div>
 <div></div>
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=default&show_icons=true&hide_border=true&layout=compact" alt="onetrueheisenberg's GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=onetrueheisenberg" alt="GitHub Streak" /></a>
 </div>
 <!---
 onetrueheisenberg/onetrueheisenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

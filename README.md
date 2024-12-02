@@ -14,7 +14,7 @@
   
 </div>
 <div></div>
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=default&show_icons=true&hide_border=true&layout=compact" alt="onetrueheisenberg's GitHub Stats" />
 </div>
 <!---

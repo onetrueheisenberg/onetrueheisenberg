@@ -13,7 +13,8 @@
   <div>- 📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com</div>
   
 </div>
-<div>
+<div></div>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=default&show_icons=true&hide_border=true&layout=compact" alt="onetrueheisenberg's GitHub Stats" />
 </div>
 <!---

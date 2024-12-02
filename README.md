@@ -1,11 +1,17 @@
-<!-- - 👋 Hi, I’m Sundara Subramanian (@onetrueheisenberg)
-- 👀 I’m an AWS Certified Developer interested in MEAN stack development and a variety of other things
-- 🌱 I’m currently doing a Master's degree in Software Engineering with minors in AI & Information and Knowledge Engineering
-- 💞️ I’m looking to collaborate on building free resources
-- 📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com
--->
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NmejVwMG41dHRjazFzc3NmaDd3M3E2Y3hqcGpyOG1zYXgwajdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="400"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sundara-subramanian">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=onetrueheisenberg&style=flat-square&color=blue" alt=""/>
+  <div>- 👋 Hi, I’m Sundara Subramanian (@onetrueheisenberg)</div>
+  <div>- 👀 I’m an AWS Certified Developer interested in MEAN stack development and a variety of other things</div>
+  <div>- 🌱 I’m currently doing a Master's degree in Software Engineering with minors in AI & Information and Knowledge Engineering</div>
+  <div>- 💞️ I’m looking to collaborate on building free resources</div>
+  <div>- 📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com</div>
+  
 </div>
 <!---
 onetrueheisenberg/onetrueheisenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

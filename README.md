@@ -14,8 +14,7 @@
   
 </div>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=default&show_icons=true&hide_border=true&layout=compact" alt="onetrueheisenberg's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=onetrueheisenberg&theme=default&hide_border=true" alt="onetrueheisenberg's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=default&show_icons=true&hide_border=true&layout=compact" alt="onetrueheisenberg's GitHub Stats" />
 </div>
 <!---
 onetrueheisenberg/onetrueheisenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

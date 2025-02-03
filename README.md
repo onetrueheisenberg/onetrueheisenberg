@@ -4,7 +4,7 @@
   <div>- 👀 I’m an AWS Certified Developer interested in MEAN stack development and a variety of other things</div>
   <div>- 🌱 I’m currently doing a Master's degree in Software Engineering with minors in AI & Information and Knowledge Engineering</div>
   <div>- 💞️ I’m looking to collaborate on building free resources</div>
-  <div>- 📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com</div>
+  <div>- 📫 How to reach me <a href="mailto:sundara@umich.edu">sundara@umich.edu</a> / <a href="mailto:sundara.subramanian1211@gmail.com">sundara.subramanian1211@gmail.com</a></div>
   <div id="badges">
   <a href="https://www.linkedin.com/in/sundara-subramanian">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

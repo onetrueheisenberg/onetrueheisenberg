@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=onetrueheisenberg&style=flat-square&color=blue" alt=""/>
 </div>
 <div>🛠️ Tech Stack
-<div>- **Languages:** Java, Python, JavaScript</div>
+<div>**Languages:** TypeScript, Python, JavaScript, Java</div>
 <div>- **Frameworks:** Spring Boot, React, Node.js</div>
 <div>- **Databases:** MySQL, PostgreSQL, MongoDB</div>
 <div>- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD</div>

@@ -21,8 +21,8 @@
 </div>
 <div></div>
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=default&show_icons=true&hide_border=true&hide=jupyter%20notebook&layout=compact" alt="onetrueheisenberg's GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=onetrueheisenberg" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=dark&show_icons=true&hide_border=true&hide=jupyter%20notebook&layout=compact" alt="onetrueheisenberg's GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=onetrueheisenberg&theme=dark" alt="GitHub Streak" /></a>
 </div>
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NmejVwMG41dHRjazFzc3NmaDd3M3E2Y3hqcGpyOG1zYXgwajdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="400"/>

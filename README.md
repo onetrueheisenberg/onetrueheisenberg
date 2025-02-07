@@ -21,7 +21,7 @@
 </div>
 <div></div>
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=default&show_icons=true&hide_border=true" alt="onetrueheisenberg's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=default&show_icons=true&hide_border=true&hide=jupyter%20notebook&layout=compact" alt="onetrueheisenberg's GitHub Stats" />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=onetrueheisenberg" alt="GitHub Streak" /></a>
 </div>
 <div id="header" align="center">

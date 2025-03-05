@@ -76,17 +76,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![Sundar's GitHub Language Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=dark&show_icons=true&hide_border=true&hide=jupyter%20notebook)
-
----
-
-## 📊 GitHub Stats:
-![Sundar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onetrueheisenberg&show_icons=true&theme=radical)
-
----
-
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=onetrueheisenberg&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+![Sundar's GitHub Language Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=dark&show_icons=true&hide_border=true&hide=jupyter%20notebook&layout=compact)
 
 ---
 

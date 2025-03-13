@@ -76,7 +76,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![Sundar's GitHub Language Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=dark&show_icons=true&hide_border=true&hide=jupyter%20notebook&layout=compact)
+![Sundar's GitHub Language Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=dark&show_icons=true&hide_border=true&hide=jupyter%20notebook)
 
 ---
 

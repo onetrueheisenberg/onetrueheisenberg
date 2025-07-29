@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sundara Subramanian (@onetrueheisenberg)
 👀 I’m an AWS Certified Developer interested in MEAN stack development and a variety of other things \
-🌱 I’m currently doing a Master's degree in Software Engineering with concentration in AI & Information and Knowledge Engineering \
+🌱 I’m currently doing a Master's degree in Software Engineering with concentration in AI & ML \
 💞️ I’m looking to collaborate on building free resources \
 📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com / https://www.linkedin.com/in/sundara-subramanian
 
